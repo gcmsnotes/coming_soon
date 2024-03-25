@@ -1,4 +1,4 @@
 # This space intentionally left blank
 
 User-agent: *
-Disallow: /
+Disallow:
